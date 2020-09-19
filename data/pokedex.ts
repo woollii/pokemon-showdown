@@ -4323,8 +4323,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	stantler: {
 		num: 234,
-		name: "Stantler",
-		types: ["Normal"],
+		name: "dragapants",
+		types: ["Ghost"],
 		baseStats: {hp: 73, atk: 95, def: 62, spa: 85, spd: 65, spe: 85},
 		abilities: {0: "Intimidate", 1: "Frisk", H: "Sap Sipper"},
 		heightm: 1.4,
