@@ -75822,6 +75822,14 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 		],
 		eventOnly: true,
 	},
+	lunaster: {
+        learnset: {
+            acrobatics: ["8M"],
+            agility: ["8M", "8L24"],
+            allyswitch: ["8M"],
+            assurance: ["8M", "8L12"],
+        }
+	},
 	tomohawk: {
 		learnset: {
 			acrobatics: ["8M", "7M", "5M"],
